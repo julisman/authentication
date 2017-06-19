@@ -1,0 +1,27 @@
+{
+  "name": "ralali-authentication",
+  "version": "1.0.6",
+  "description": "module for authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralali/ralali-authentication.git"
+  },
+  "keywords": [
+    "authentication",
+    "service"
+  ],
+  "author": "Agung Julisman <agung.julisman@yahoo.com> (http://julisman.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ralali/ralali-authentication/issues"
+  },
+  "homepage": "https://github.com/ralali/ralali-authentication#readme",
+  "dependencies": {
+    "jwt-simple": "^0.5.0",
+    "moment": "^2.15.1"
+  }
+}

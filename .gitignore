@@ -1,0 +1,9 @@
+
+.env
+.idea
+*~
+/.idea
+/ssl
+docker-compose.yml
+/coverage
+/artifacts
